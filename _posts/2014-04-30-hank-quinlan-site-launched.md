@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: Here we go again. 
+date: 2015-06-26
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Time for new beginnings and some minimalism.  Am tied of playing
+sysadmin for ny own stuff - it feels like Yak Shaving™ and it takes
+away from the real work I'd like to do.  So this is an experiemnt in
+sliming down.  Let's see how it goes.
+
