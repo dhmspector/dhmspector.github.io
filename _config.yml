@@ -1,3 +1,6 @@
 name: David HM Spector, developer, coffee-snob, recovering New Yorker in SF.
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+encoding: utf-8 
+exclude: [publish.sh]
+timezone: America/Los_Angeles
